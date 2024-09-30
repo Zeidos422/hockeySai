@@ -1,1 +1,1 @@
-# hockeySai
+# Migthy Ducks Hockey League
